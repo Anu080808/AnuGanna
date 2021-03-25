@@ -1,4 +1,4 @@
-# Mania
+# [Mania](https://github.com/Anu080808/Mania)
 ``` 
 This is Simple User Friendly Music Discord Bot .
 Add this Bot in Your Server using the invite link given below.
