@@ -21,7 +21,7 @@ https://discord.com/api/oauth2/authorize?client_id=824495798103834635&permission
 ```
 Bot Prefix - ,,
 
-is turn on your bot !
+```
 
 ### 🎵 Music commands
 
