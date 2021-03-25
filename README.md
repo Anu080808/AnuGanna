@@ -17,8 +17,8 @@ https://discord.com/api/oauth2/authorize?client_id=824495798103834635&permission
 ⚠ [Troubleshooting](https://github.com/jagrosh/Vortex/wiki/Troubleshooting) 
 
 
-## How do I report a bug or suggest a feature?
-Feel free to open an issue with your bug report or feature request, with as many details as possible. If you'd like to write a feature, please open an issue first for discussion. For help with the bot, please see the wiki (linked above).
+## BOT COMMANDS.
+ 
 
 
 ## Can I self-host Vortex?
