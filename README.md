@@ -18,7 +18,7 @@ https://discord.com/api/oauth2/authorize?client_id=824495798103834635&permission
 
 
 ## BOT COMMANDS.
-
+```
 Bot Prefix - ,, <br>
 
 play <name/URL> - play music in a voice channel.  <br>
@@ -36,6 +36,6 @@ stop - stop all music.<br>
 filter <filter> - add / remove filter.<br>
 w-filters - see filters.<br>
 
+```
 
-## Can I self-host Vortex?
  
