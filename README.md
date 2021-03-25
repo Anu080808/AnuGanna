@@ -2,7 +2,7 @@
 
 
 
-## Discord Mania Bot Invite Link 
+## [Discord Mania Bot Invite Link](https://discord.com/api/oauth2/authorize?client_id=824495798103834635&permissions=8&scope=bot)
 https://discord.com/api/oauth2/authorize?client_id=824495798103834635&permissions=8&scope=bot
 
 
