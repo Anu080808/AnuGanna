@@ -19,10 +19,10 @@ Add this Bot in Your Server using the invite link given below.
 ◆❯❯❯ Anu Ganna Prefix ━ ,,
 ◆❯❯❯ Anu Ganna 2 Prefix ━ ++
 ◆❯❯❯ Anu Ganna 3 Prefix ━ ..
-
-
-
 ```
+
+
+
 
 
 ### 🎵 Music commands
