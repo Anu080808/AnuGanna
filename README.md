@@ -16,7 +16,12 @@ Add this Bot in Your Server using the invite link given below.
 
 ## BOT COMMANDS.
 ```
-◆❯❯❯ Bot Prefix ━ ,,
+◆❯❯❯ Anu Ganna Prefix ━ ,,
+◆❯❯❯ Anu Ganna 2 Prefix ━ ++
+◆❯❯❯ Anu Ganna 3 Prefix ━ ..
+
+
+
 ```
 
 
