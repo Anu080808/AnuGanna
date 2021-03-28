@@ -1,4 +1,4 @@
-# [Mania](https://github.com/Anu080808/Mania)
+# [Anu Ganna](https://github.com/Anu080808/AnuGanna)
 ``` 
 This is Simple User Friendly Music Discord Bot .
 Add this Bot in Your Server using the invite link given below.
