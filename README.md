@@ -4,13 +4,14 @@ This is Simple User Friendly Music Discord Bot .
 Add this Bot in Your Server using the invite link given below.
 ```
 
-## [Anu Ganna Bot Invite Link]()
+## [Anu Ganna Bot Invite Link](https://discord.com/api/oauth2/authorize?client_id=825621734735609867&permissions=8&scope=bot)
+https://discord.com/api/oauth2/authorize?client_id=825621734735609867&permissions=8&scope=bot
 
+## [Anu Ganna 2 Bot Invite Link](https://discord.com/api/oauth2/authorize?client_id=825621949770235944&permissions=8&scope=bot)
+https://discord.com/api/oauth2/authorize?client_id=825621949770235944&permissions=8&scope=bot
 
-## [Anu Ganna 2 Bot Invite Link]()
-
-
-## [Anu Ganna 3 Bot Invite Link]()
+## [Anu Ganna 3 Bot Invite Link](https://discord.com/api/oauth2/authorize?client_id=825622091117232158&permissions=8&scope=bot)
+https://discord.com/api/oauth2/authorize?client_id=825622091117232158&permissions=8&scope=bot
 
 
 
